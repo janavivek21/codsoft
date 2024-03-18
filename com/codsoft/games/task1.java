@@ -3,7 +3,7 @@ package com.codsoft.games;
 import java.util.Scanner;
 import java.util.Random;
 
-public class NumberGuessingGame {
+public class task1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
